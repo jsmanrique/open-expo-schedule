@@ -1008,7 +1008,7 @@ export const scheduleInfo = [
 export const eventInfo = {
   title: 'Open Comunnities Summit',
   subtitle: '6 y 7 Junio 2018',
-  ticketsURL: 'https://openexpoeurope.com/oe2018/register/',
+  ticketsURL: 'https://cloud.osweekends.com/index.php/s/bBcQ6TpfQozgWGo#pdfviewer',
   ticketCode: 'GOE18250',
   callToActionMsg: 'Entradas',
   showContdown: true,
