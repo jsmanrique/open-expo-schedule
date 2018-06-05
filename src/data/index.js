@@ -642,6 +642,8 @@ export const scheduleInfo = [
                   socialLinks: {
                     twitter: 'https://twitter.com/jsmanrique',
                     website: 'https://bitergia.com/',
+                    linkedin: 'https://www.linkedin.com/in/jsmanrique/',
+                    github: 'https://github.com/jsmanrique'
                   },
                 },
               ],
