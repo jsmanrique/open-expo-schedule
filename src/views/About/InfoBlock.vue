@@ -45,6 +45,11 @@
     display grid
     grid-template-columns 1fr 1fr
     grid-column-gap 10px
+  @media (max-width: 500px)
+    .grid-block
+      grid-template-columns 1fr
+      grid-template-rows 1fr 1fr
+      grid-gap 5px
 
   .text-black-link
     color: #2d3e4f
